@@ -1,0 +1,23 @@
+font size 
+    font weight
+canteiner
+display inline inline-block 
+icon bilan ishlash
+margin togri  berish 
+position apsalyut va relative
+sticyva stitic
+padding berish
+
+margin auto berish
+:hover after before active visited selection
+va first of type first-child
+nth-of-type last - child va last-of type
+transition orasidagi vaqt
+display flex 
+justify content center flex-end start
+space between,around and enenly
+align items center flex end and start
+gap
+flex direction row(default) row-reverse colunm and -reverse
+flex wrap ni tushunmadim -----------
+va flex flowni ham ------------------
